@@ -18,7 +18,7 @@ Founded in 1994 by Thammasak Achyawat, MICRO specialized in second-hand truck fi
 The company’s motto: *Gratitude, Integrity, Diligence, Perseverance, and Fair Distribution.* MICRO avoided stripping profits before its IPO, choosing instead to use retained earnings as a solid financial foundation on which new ventures were built.
 
 #### 🏢 Expanding the Ecosystem  
-Post-IPO, MICRO expanded from Used Trucks to New Ventures:
+Post-IPO, MICRO expanded from Used Trucks to New Ventures.
 - Vehicle loan services  
 - Insurance brokerage (est. 2021)  
 - Personal and Vehicle Title loans (licensed Oct 2022, active Q2 2023)  
@@ -28,7 +28,7 @@ Post-IPO, MICRO expanded from Used Trucks to New Ventures:
 MICRO plans to grow its motorcycle loan portfolio to ฿500M in its first year. Despite challenges like increased NPLs, flooding, and household debt, the company strives to support customers fairly.
 
 #### 🌐 Tech-Fueled Resilience  
-With investments in digital infrastructure, data centers, privacy, and information security since 2019 (with support from Nutanix Thailand), MICRO now enjoys greater agility and scalability. Even through macroeconomic pressures—rising interest rates and geopolitical tension—the company believes tech will help to power the company ahead in a safe and sustainable path.
+With investments in digital infrastructure, data centers, privacy, and information security since 2019 (with support from [Nutanix](https://www.nutanix.com/company/customers/micro-leasing#) ), MICRO now enjoys greater agility and scalability. Even through macroeconomic pressures—rising interest rates and geopolitical tension—the company believes tech will help to power the company ahead in a safe and sustainable path.
 
 _Translated from Thai to English by Prevalis.AI_
 
