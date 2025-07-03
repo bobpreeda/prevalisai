@@ -30,8 +30,6 @@ MICRO plans to grow its motorcycle loan portfolio to ฿500M in its first year. 
 #### 🌐 Tech-Fueled Resilience  
 With investments in digital infrastructure, data centers, privacy, and information security since 2019 (with support from Nutanix Thailand), MICRO now enjoys greater agility and scalability. Even through macroeconomic pressures—rising interest rates and geopolitical tension—the company believes tech will help to power the company ahead in a safe and sustainable path.
 
----
+_Translated from Thai to English by Prevalis.AI_
 
-Translated from Thai to English by Prevalis.AI
----
 Source: 🌐 [Forbes Thailand - Preeda Iramaneerat](https://forbesthailand.com/dine-with-the-boss/people/%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B8%94%E0%B8%B2-%E0%B9%84%E0%B8%AD%E0%B8%A3%E0%B8%A1%E0%B8%93%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B9%84%E0%B8%AE%E0%B9%80%E0%B8%97%E0%B8%84-%E0%B8%82%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%B3-micro-leasing)
