@@ -44,10 +44,7 @@ And that's it! Quite a nostalgia trip down memory lane. Looking back, it was the
 
 Thank you, Dad, for getting me the most awesome gift of all, which was knowledge!
 
-1
-![Picture of me and my Dad](./zxspectrum-pics/Me&Dad.jpg "Me & My Dad")
-2
-![Picture of me and my Dad](./Me&Dad.jpg "Me & My Dad")
+![Picture of me and my Dad](./zxspectrum-pics/Me_and_Dad.jpg "Me and My Dad")
 
 ---
 
