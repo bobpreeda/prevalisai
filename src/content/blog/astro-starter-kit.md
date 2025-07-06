@@ -1,7 +1,7 @@
 ---
 title: "Astro Starter Kit"
 description: "Create a blog with Astro and deploy it on Cloudflare Workers as a static website."
-pubDate: "Jan 1 2023"
+pubDate: "Jan 1 2022"
 heroImage: "/blog-placeholder-astro.jpg"
 ---
 
