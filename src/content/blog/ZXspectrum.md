@@ -43,13 +43,13 @@ And that's it! Quite a nostalgia trip down memory lane. Looking back, it was the
 Thank you, Dad, for getting me the most awesome gift of all, which was knowledge!
 
 1
-[Picture of me and my Dad](https://prevalis.ai/blog/zxspectrum/Me&Dad.jpg "Me & My Dad")
+[Picture of me and my Dad](https://prevalis.ai/blog/zxspectrum-pics/Me&Dad.jpg "Me & My Dad")
 2
-[Picture of me and my Dad](/blog/zxspectrum/Me&Dad.jpg "Me & My Dad")
+[Picture of me and my Dad](./zxspectrum-pics/Me&Dad.jpg "Me & My Dad")
 3
 ![Picture of me and my Dad](./zxspectrum/Me&Dad.jpg "Me & My Dad")
 4
-<img src="./zxspectrum/Me&Dad.jpg" alt="isolated" width="200"/>
+<img src="./zxspectrum-pics/Me&Dad.jpg" alt="isolated" width="200"/>
 
 
 ---
