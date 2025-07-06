@@ -17,7 +17,9 @@ My Dad took me to a computer show, one of the first in Thailand, and I was hooke
 
 Next day, to my surprised, he got me a Sinclair ZX spectrum! I knew absolutely nothing about it and set out to learn whatever I can from the manual. I was 11 yearsold at the time, so everything was a steep learning curve for me! From hooking it up to a TV and tuning the signal, then connecting it to a cassette player and loading the programs from cassette tapes. Everything was trial-and-error as there is no one to ask and no Google or Internet back then!
 
-![My ZX Spectrum unboxed](../assets/ZX_Spectrum_unboxed.jpg "ZX Spectrum in a foam box!")
+![My ZX Spectrum unboxed](./zxspectrum-pics/ZX_Spectrum_unboxed.jpg "ZX Spectrum in a foam box!")
+
+---
 
 ### ⌨️ Programming in ZX80 BASIC
 
@@ -43,16 +45,15 @@ And that's it! Quite a nostalgia trip down memory lane. Looking back, it was the
 Thank you, Dad, for getting me the most awesome gift of all, which was knowledge!
 
 1
-![Picture of me and my Dad](../assets/Me&Dad.jpg "Me & My Dad")
+![Picture of me and my Dad](./zxspectrum-pics/Me&Dad.jpg "Me & My Dad")
 2
-![Picture of me and my Dad](../zxspectrum-pics/Me&Dad.jpg "Me & My Dad")
+![Picture of me and my Dad](./Me&Dad.jpg "Me & My Dad")
 
 ---
 
-By [Sinclair Research - Vectorization by Dan Patrick, Public Domain](https://commons.wikimedia.org/w/index.php?curid=122607407)
-By [Bill Bertram - Own work, CC BY-SA 2.5](https://commons.wikimedia.org/w/index.php?curid=170050)
-By [Nico Kaiser - Flickr: Sinclair ZX Spectrum, CC BY 2.0](https://commons.wikimedia.org/w/index.php?curid=19488365)
-By [Sinclair Collection Site](https://www.sinclaircollection.site/?page_id=418)
+Source:
+- [Bill Bertram - Own work, CC BY-SA 2.5](https://commons.wikimedia.org/w/index.php?curid=170050)
+- [Sinclair Collection Site](https://www.sinclaircollection.site/?page_id=418)
 ### 🔗 Connect
 
 I’m building Prevalis Strategies as a technical + strategic consulting venture. Follow the journey, learn with me, or drop suggestions or questions!
