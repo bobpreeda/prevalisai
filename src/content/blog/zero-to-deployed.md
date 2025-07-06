@@ -94,4 +94,4 @@ I’m building Prevalis Strategies as a technical + strategic consulting venture
 
 > **Domain:** [https://prevalis.ai](https://prevalis.ai)  
 > **Email:** [info@prevalis.ai]  
-> **Built & maintained by:** prevalis.ai ✨
+> **Built & maintained by:** [prevalis.ai](https://prevalis.ai) ✨
