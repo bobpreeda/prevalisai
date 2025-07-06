@@ -17,7 +17,7 @@ My Dad took me to a computer show, one of the first in Thailand, and I was hooke
 
 Next day, to my surprised, he got me a Sinclair ZX spectrum! I knew absolutely nothing about it and set out to learn whatever I can from the manual. I was 11 yearsold at the time, so everything was a steep learning curve for me! From hooking it up to a TV and tuning the signal, then connecting it to a cassette player and loading the programs from cassette tapes. Everything was trial-and-error as there is no one to ask and no Google or Internet back then!
 
-[My ZX Spectrum unboxed](/zxspectrum/ZX_Spectrum_unboxed.jpg "ZX Spectrum in a foam box!")
+![My ZX Spectrum unboxed](../assets/ZX_Spectrum_unboxed.jpg "ZX Spectrum in a foam box!")
 
 ### ⌨️ Programming in ZX80 BASIC
 
@@ -43,14 +43,9 @@ And that's it! Quite a nostalgia trip down memory lane. Looking back, it was the
 Thank you, Dad, for getting me the most awesome gift of all, which was knowledge!
 
 1
-[Picture of me and my Dad](https://prevalis.ai/blog/zxspectrum-pics/Me&Dad.jpg "Me & My Dad")
+![Picture of me and my Dad](../assets/Me&Dad.jpg "Me & My Dad")
 2
-[Picture of me and my Dad](./zxspectrum-pics/Me&Dad.jpg "Me & My Dad")
-3
-![Picture of me and my Dad](./zxspectrum/Me&Dad.jpg "Me & My Dad")
-4
-<img src="./zxspectrum-pics/Me&Dad.jpg" alt="isolated" width="200"/>
-
+![Picture of me and my Dad](../zxspectrum-pics/Me&Dad.jpg "Me & My Dad")
 
 ---
 
