@@ -3,6 +3,7 @@ title: "Forbes Thailand - Preeda Iramaneerat"
 description: "Lay the foundation of Technology. Expand the Horizon"
 pubDate: "Aug 18 2023"
 heroImage: "/blog-placeholder-forbes.jpg"
+tags: ["forbes", "micro", "nutanix"]
 ---
 
 #### 🚀 “Preeda Iramaneerat” Expands Company Horizons with High-Tech Boost at Micro Leasing
