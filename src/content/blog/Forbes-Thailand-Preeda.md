@@ -5,29 +5,29 @@ pubDate: "Aug 18 2023"
 heroImage: "/blog-placeholder-forbes.jpg"
 ---
 
-### 🚀 “Preeda Iramaneerat” Expands Company Horizons with High-Tech Boost at Micro Leasing
+#### 🚀 “Preeda Iramaneerat” Expands Company Horizons with High-Tech Boost at Micro Leasing
 
-#### 🚛 Tech-driven Transformation  
+##### 🚛 Tech-driven Transformation  
 Preeda Iramaneerat, Deputy Managing Director of Resources and Investment at Micro Leasing (MICRO), explains how technology has become a vital part of accelerating growth. The company shortened its loan approval process from 7 days to just 3, saving key resources, thus, allowing more time to expand business operations.
 
-#### 📈 Growth During 🦠COVID  
+##### 📈 Growth During 🦠COVID  
 MICRO entered the Stock Exchange of Thailand in October 2020 amid the pandemic. Despite economic concerns, its IPO launch was a defining success for the company. The trucking business thrived during lockdowns thanks to continued demand for goods and the rise of e-commerce.
 
-#### 💡 Business Ethics as a Growth Engine  
+##### 💡 Business Ethics as a Growth Engine  
 Founded in 1994 by Thammasak Achyawat, MICRO specialized in second-hand truck financing. The 1997 financial crisis tested the company’s values—Thammasak bought back shares at higher-than-market prices, showing integrity that left a lasting impression on Preeda.
 The company’s motto: *Gratitude, Integrity, Diligence, Perseverance, and Fair Distribution.* MICRO avoided stripping profits before its IPO, choosing instead to use retained earnings as a solid financial foundation on which new ventures were built.
 
-#### 🏢 Expanding the Ecosystem  
+##### 🏢 Expanding the Ecosystem  
 Post-IPO, MICRO expanded from Used Trucks to New Ventures.
 - Vehicle loan services  
 - Insurance brokerage (est. 2021)  
 - Personal and Vehicle Title loans (licensed Oct 2022, active Q2 2023)  
 - Motorcycle loans via Micro Plus Leasing, aimed at IPO by 2026
 
-#### 📊 Forward Momentum & Challenges  
+##### 📊 Forward Momentum & Challenges  
 MICRO plans to grow its motorcycle loan portfolio to ฿500M in its first year. Despite challenges like increased NPLs, flooding, and household debt, the company strives to support customers fairly.
 
-#### 🌐 Tech-Fueled Resilience  
+##### 🌐 Tech-Fueled Resilience  
 With investments in digital infrastructure, data centers, privacy, and information security since 2019 (with support from [Nutanix](https://www.nutanix.com/company/customers/micro-leasing#) ), MICRO now enjoys greater agility and scalability. Even through macroeconomic pressures—rising interest rates and geopolitical tension—the company believes tech will help to power the company ahead in a safe and sustainable path.
 
 _Translated from Thai to English by Prevalis.AI_
