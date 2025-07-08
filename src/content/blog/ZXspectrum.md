@@ -21,6 +21,19 @@ Next day, to my surprised, he got me a Sinclair ZX spectrum! I knew absolutely n
 
 ---
 
+### 🚀 What a tiny gaming platform!
+
+With its rubber keys and tinny sound, you might not think of it as a proper gaming platform, but, oh boy! Started with games like Horace Goes Skiing to Psion Chess, from Space Invaders to Asteroids, from Pong to Breakout, I had absolute blast playing those games! The graphic may not look like much on screen, but my imaginations helps bring it to life!
+
+![Space Invaders](./zxspectrum-pics/space_invaders.png)
+Space Invaders
+![Asteroids](./zxspectrum-pics/asteroids.png)
+Asteroids
+![Breakout](./zxspectrum-pics/breakout.png)
+Breakout
+
+---
+
 ##### ⌨️ Programming in ZX80 BASIC
 
 - **Typing codes from Computer magazine!** At my school's library, they sometimes received donations of old computer magazine, like PC Magazines PC/Computing, etc. from nearby bookstores. Imagine my delight when I found **computer magazine** for me to borrow! Copying BASIC codes from magazine into my ZX spectrum, debugging it, running it and making changes to it really helped me learned the logic and basic building blocks of programming, and this has stuck with me over the years! 
