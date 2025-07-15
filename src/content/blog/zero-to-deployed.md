@@ -3,6 +3,7 @@ title: "From Zero to Deployed in a day!"
 description: "How I go from Zero to having my personal website up and running in a day using cloudflare!"
 pubDate: "Jul 03 2025"
 heroImage: "/blog-placeholder-zero.jpg"
+tags: ["cloudflare", "astro", "prevalis.ai", "flask", "python", "proton"]
 ---
 
 ## 🌐 From Zero to Deployed: Building a Scalable Website with Astro, Flask & Cloudflare, and automate with Cloudflare Workers.
@@ -20,7 +21,7 @@ In the process of learning various technologies, including serverless architectu
 - **Frontend:** [Astro](https://astro.build/) – clean, fast, and content-friendly
 I chose Astro for frontend instead of React or others, since the website will be content-loaded and minimal user interactions.
 
-- **Backend:** [Flask](https://flask.palletsprojects.com/) + [SQLAlchemy Core](https://docs.sqlalchemy.org/core/) – for robust API handling and database persistence
+- **Backend:** [Flask](https://flask.palletsprojects.com/) - with python library integration
 I've worked with Flasks before on small projects, for which it is superb.
 
 - **Deployment:** [Cloudflare](https://www.cloudflare.com/) – secure DNS, routing, and email integration

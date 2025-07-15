@@ -3,6 +3,7 @@ title: Remembering ZX spectrum
 description: My first computer!
 pubDate: Jan 04 2023
 heroImage: /blog-placeholder-zxspectrum.jpg
+tags: ["ZX Spectrum", "Commodore"]
 ---
 
 #### 🖥️ Released in 1982, this computer is quite something!

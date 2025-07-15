@@ -3,6 +3,7 @@ title: "Nutanix - Preeda Iramaneerat"
 description: "Micro Leasing takes off with Nutanix"
 pubDate: "Jun 1 2023"
 heroImage: "/blog-placeholder-nutanix.jpg"
+tags: ["micro", "nutanix"]
 ---
 
 **Thailand's hire-purchase finance company for used trucks, scales with Nutanix to support threefold growth in business and centralized operations across all locations for a seamless customer experience.**
