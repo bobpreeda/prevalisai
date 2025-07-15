@@ -1,7 +1,7 @@
 ---
 title: "From Zero to Deployed in a day!"
 description: "How I go from Zero to having my personal website up and running in a day using cloudflare!"
-pubDate: "Jul 03 2024"
+pubDate: "Jul 03 2025"
 heroImage: "/blog-placeholder-zero.jpg"
 ---
 
@@ -90,7 +90,7 @@ And that's it! I started out in the morning, with a goal to experiment with serv
 
 ### 🔗 Connect
 
-I’m building Prevalis Strategies as a technical + strategic consulting venture. Follow the journey, learn with me, or drop suggestions or questions!
+_I’m building Prevalis Strategies as a technical + strategic consulting venture. Follow the journey, learn with me, or drop suggestions or questions!_
 
 > **Domain:** [https://prevalis.ai](https://prevalis.ai)  
 > **Email:** [info@prevalis.ai]  

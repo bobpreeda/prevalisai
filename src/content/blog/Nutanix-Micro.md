@@ -55,4 +55,4 @@ For the next phase, Micro Leasing will partner with Nutanix to tailor their hybr
 
 "Micro Leasing aims to strengthen IT through automation and cloud computing. We have always regarded automation and the cloud as significant future corporate growth engines. However, as a financial business, customer information requires precaution. Therefore, we must treat our customers' personal information with the utmost confidentiality," Mr Preeda concluded. "We are currently evaluating Nutanix hybrid cloud solutions and expect to install them soon since we foresee that they will enable the organization to utilize the performance and capabilities of the cloud with total efficiency and security," said Preeda.
 
-Source: 🌐 [Nutanix](https://www.nutanix.com/company/customers/micro-leasing#)
+_Source:_ 🌐 [Nutanix](https://www.nutanix.com/company/customers/micro-leasing#)

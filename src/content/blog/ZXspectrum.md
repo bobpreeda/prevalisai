@@ -61,7 +61,7 @@ Thank you, Dad, for getting me the most awesome gift of all, which was knowledge
 
 ---
 
-Source:
+_Source:_
 - [Bill Bertram - Own work, CC BY-SA 2.5](https://commons.wikimedia.org/w/index.php?curid=170050)
 - [Sinclair Collection Site](https://www.sinclaircollection.site/?page_id=418)
 
