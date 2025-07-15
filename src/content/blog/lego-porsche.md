@@ -1,7 +1,7 @@
 ---
-title: For the love of Lego!
-description: Latest build: porsche 911 Turbo.
-pubDate: Jan 28 2025
+title: "For the love of Lego!"
+description: "Latest build: porsche 911 Turbo."
+pubDate: "Jan 28 2025"
 heroImage: "/blog-placeholder-lego.jpg"
 tags: ["lego", "porsche", "911", "Turbo"]
 ---
