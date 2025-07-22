@@ -1,5 +1,5 @@
 ---
-title: "Money & Banking Article"
+title: "Money & Banking - Preeda Iramaneerat"
 description: "Micro Leasing creates CDP system"
 pubDate: "Mar 17 2023"
 heroImage: "/blog-placeholder-moneybanking.jpg"
