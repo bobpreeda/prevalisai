@@ -2,11 +2,13 @@
 title: "The Nation - Preeda Iramaneerat"
 description: "Micro Leasing embraces cloud computing"
 pubDate: "Feb 22 2023"
-heroImage: "/blog-placeholder-moneybanking.jpg"
+heroImage: "/blog-placeholder-nation.jpg"
 tags: ["micro", "the nation", "finance", "fintech", "preeda iramaneerat", "cloud computing", "nutanix", "digital transformation"]
 ---
 
 **Micro Leasing Pcl has embraced Nutanix’s cloud computing program to integrate customer needs with its diverse products, the company's deputy managing director of business resources and investment, Preeda Iramaneerat, said in a recent interview with The Nation.**
+
+![Surak Thammarak and Preeda Iramaneerat](./nation-pics/nutanix-preeda.jpg "Surak Thammarak and Preeda Iramaneerat")
 
 Micro Leasing, a truck financing company that has been around since 1997, has tided over a number of crises, such as the Asian financial crisis, the Hamburger crisis, and Covid-19. In 2018, the company entered into discussions with Nutanix to improve its existing infrastructure and hardware.
 
