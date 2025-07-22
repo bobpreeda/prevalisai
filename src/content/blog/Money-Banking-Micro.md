@@ -1,7 +1,7 @@
 ---
 title: "Money & Banking"
 description: "Micro Leasing creates CDP system"
-pubDate: "Jun 1 2023"
+pubDate: "Mar 17 2023"
 heroImage: "/blog-placeholder-moneybanking.jpg"
 tags: ["micro", "money and banking", "finance", "fintech", "preeda iramaneerat", "CDP", "customer data platform"]
 ---
